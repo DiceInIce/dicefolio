@@ -20,7 +20,7 @@ const Page = () => {
           alt='bulb'
           width={260}
           height={260}
-          className='w-full h-70% hidden md:block'
+          className='w-70% h-full hidden md:block'
         />
       </div>
       <ServiceSlider />
